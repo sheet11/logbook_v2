@@ -1,0 +1,58 @@
+<table border="1">
+	<tr>
+		<td>id Detail SKP</td>
+		<td>Uraian SKP</td>
+		<td>Alokasi Waktu</td>
+		<td>Target Waktu</td>
+	</tr>
+<tr>
+					<td>68775</td>
+					<td>Pemanasan Genset</td>
+					<td>00.30</td>
+					<td>01.30</td>
+				</tr><tr>
+					<td>68776</td>
+					<td>Persiapan Pemakaian Gedung Auditorium</td>
+					<td>00.30</td>
+					<td>02.00</td>
+				</tr><tr>
+					<td>68777</td>
+					<td>Pengecekan dan Perbaikan Barang Inventaris Kantor</td>
+					<td>00.30</td>
+					<td>02.00</td>
+				</tr><tr>
+					<td>68778</td>
+					<td>Input Soal Ujian CBT</td>
+					<td>00.30</td>
+					<td>05.00</td>
+				</tr><tr>
+					<td>68779</td>
+					<td>Pengawas Ujian CBT</td>
+					<td>05.00</td>
+					<td>15.00</td>
+				</tr><tr>
+					<td>68780</td>
+					<td>Pemeliharaan dan Perbaikan Jaringan</td>
+					<td>01.00</td>
+					<td>05.00</td>
+				</tr><tr>
+					<td>68781</td>
+					<td>Pemeliharaan dan Perbaikan Komputer</td>
+					<td>03.00</td>
+					<td>50.00</td>
+				</tr><tr>
+					<td>68782</td>
+					<td>Melaksanakan Tugas Sesuai Perintah Atasan</td>
+					<td>01.00</td>
+					<td>10.00</td>
+				</tr><tr>
+					<td>68783</td>
+					<td>Mengikuti Kegiatan yang Diselenggarakan Dilingkungan Poltekkes Kemenkes Bengkulu</td>
+					<td>01.00</td>
+					<td>10.00</td>
+				</tr><tr>
+					<td>68784</td>
+					<td>Menyiapkan Ruang Rapat / Mengikuti Rapat</td>
+					<td>01.00</td>
+					<td>03.00</td>
+				</tr>
